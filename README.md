@@ -10,7 +10,7 @@ Deixarei também, um [link](https://www.useloom.com/share/fabdc0e0c9bb4c65a097c4
   
 
 <p align="center">
-🚀 Javascript | Typescript | ReactJS | NesxtJs | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
+🚀 Javascript | Typescript | ReactJS | NextJs | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
 </p>
 <p align="center">
   <a href="https://github.com/erickpeixoto" alt="GitHub">
