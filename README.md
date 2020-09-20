@@ -1,4 +1,4 @@
-<h1 align="center">
+
   
 Me chamo Erick, sou Full Stack Sênior e especialista React, hoje com foco na OmniStack (NodeJs, ReactJS e React Native) e NextJs.
 
@@ -8,7 +8,6 @@ Já atuei como CTO, Tech lead, Front-end e Back-end Developer… Posso me integr
 Deixarei também, um link para um vídeo de apresentação de um projeto desenvolvido por mim, penso ser uma forma mais eficaz de demonstrar um pouco das minhas skills.
 https://www.useloom.com/share/fabdc0e0c9bb4c65a097c44707f28347
   
-</h1>  
 
 <p align="center">
 🚀 Javascript | Typescript | ReactJS | NesxtJs | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
