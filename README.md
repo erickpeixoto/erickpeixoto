@@ -1,11 +1,11 @@
 
   
-Me chamo Erick, sou Full Stack Sênior e especialista React, hoje com foco na OmniStack (NodeJs, ReactJS e React Native) e NextJs.
+Olá! me chamo [Erick](https://www.linkedin.com/in/erickpeixoto), sou Full Stack Sênior e especialista React, hoje com foco na OmniStack (NodeJs, ReactJS e React Native) e NextJs.
 
 Tenho uma boa vivência em desenvolvimento remoto, sobretudo, o entendimento emocional necessário para se atuar nesse formato.
 Já atuei como CTO, Tech lead, Front-end e Back-end Developer… Posso me integrar ao time em todas essas frentes.
 
-Deixarei também, um [link](https://www.useloom.com/share/fabdc0e0c9bb4c65a097c44707f28347) para um vídeo de apresentação de um projeto desenvolvido por mim, penso ser uma forma mais eficaz de demonstrar um pouco das minhas skills.
+Deixarei um [link](https://www.useloom.com/share/fabdc0e0c9bb4c65a097c44707f28347) para um vídeo de apresentação de um projeto desenvolvido por mim, penso ser uma forma mais eficaz de demonstrar um pouco das minhas skills.
 
   
 
