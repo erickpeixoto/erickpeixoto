@@ -1,12 +1,8 @@
 
-  
-Olá! me chamo [Erick](https://www.linkedin.com/in/erickpeixoto), sou Full Stack Sênior e especialista React, hoje com foco na OmniStack (NodeJs, ReactJS e React Native) e NextJs.
+Hello, I'm [Erick](https://www.linkedin.com/in/erickpeixoto).
+I've been working with development since 2011, currently as a Senior Full Stack, Tech lead, Front or Back... I can act in all these positions. About my current stack, I've mainly worked with OmniStack and NextJs.
 
-Tenho uma boa vivência em desenvolvimento remoto, sobretudo, o entendimento emocional necessário para se atuar nesse formato.
-Já atuei como CTO, Tech lead, Front-end e Back-end Developer… Posso me integrar ao time em todas essas frentes.
-
-Deixarei um [link](https://www.useloom.com/share/fabdc0e0c9bb4c65a097c44707f28347) para um vídeo de apresentação de um projeto desenvolvido por mim, penso ser uma forma mais eficaz de demonstrar um pouco das minhas skills.
-
+Programming is my passion. I love problem solving and being able to turn ideas into results.  I participated in the full process of the product life cycle, from the initial interaction with the Customer to product support in a lot of projects. I performed a range of tasks, including application design from scratch, code re-factoring and optimization, unit testing, requirement analysis and elaboration.    
   
 
 <p align="center">
