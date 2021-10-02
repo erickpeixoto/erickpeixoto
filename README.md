@@ -2,7 +2,7 @@
 Hello, I'm [Erick](https://www.linkedin.com/in/erickpeixoto).
 I've been working with development since 2011, currently as a Senior Full Stack, Tech lead, Front or Back... I can act in all these positions. About my current stack, I've mainly worked with OmniStack and NextJs.
 
-Programming is my passion. I love problem solving and being able to turn ideas into results.  I participated in the full process of the product life cycle, from the initial interaction with the Customer to product support in a lot of projects. I performed a range of tasks, including application design from scratch, code re-factoring and optimization, unit testing, requirement analysis and elaboration.    
+Programming is my passion. I love problem solving and being able to turn ideas into results.   I participated in the full process of the product life cycle, from the initial interaction with the Customer to product support in a lot of projects. I performed a range of tasks, including application design from scratch, code re-factoring and optimization, unit testing, requirement analysis and elaboration.    
   
 
 <p align="center">
