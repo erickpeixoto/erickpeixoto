@@ -1,7 +1,6 @@
+Hello, my name is Erick, and I have been working in software development since 2011. Currently, I hold the position of Senior Full Stack Developer and have experience as a Tech Lead in both front-end and back-end development. My current technology stack mainly consists of OmniStack and NextJs.
 
-Hello, I'm Erick. I've been working with development since 2011, currently as a Senior Full Stack, Tech lead, Front or Back... I can act in all these positions. About my current stack, I've mainly worked with OmniStack and NextJs.
-
-Programming is my passion. I love problem-solving and being able to turn ideas into results.   I participated in the full process of the product life cycle, from the initial interaction with the Customer to product support in many projects. I performed various tasks, including application design from scratch, code re-factoring and optimization, unit testing, requirement analysis, and elaboration.
+As a software developer, I am deeply passionate about programming and enjoy problem-solving. I take great pride in my ability to turn ideas into tangible results. Throughout my career, I have participated in the full product lifecycle, from initial customer interactions to product support in a variety of projects. My responsibilities have included designing applications from scratch, refactoring and optimizing existing code, unit testing, requirement analysis, and elaboration.
   
 
 <p align="center">
