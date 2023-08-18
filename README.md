@@ -1,6 +1,8 @@
-Greetings, my name is Erick, and I am a seasoned software developer with over a decade of experience in the field. Currently holding the position of Senior Full Stack Developer and Tech Lead, I possess extensive front-end and back-end development expertise. My current technology stack predominantly consists of OmniStack and NextJs.
+Hey there! I'm Erick, a software developer with more than 10 years of experience under my belt. I'm basically a coding wizard, especially when it comes to front-end and back-end development. My go-to tech stack these days is OmniStack and NextJs. 
 
-My passion for programming and adept problem-solving skills have successfully transformed ideas into real-world solutions throughout my career. I have been involved in various projects' entire product lifecycle, from initial customer interactions to product support. My professional responsibilities have included application design, code optimization and refactoring, unit testing, requirement analysis, and elaboration.
+I'm super passionate about programming and love working out solutions to tricky problems. Over the years, I've been a part of a bunch of different projects, from start to finish. I've done everything from chatting with customers to support once the product is live. 
+
+My day-to-day work includes designing applications, optimizing and cleaning up code, testing things out, and figuring out what our customers really need. It's a challenging and rewarding gig, and I'm stoked to be doing it.
 
 <p align="center">
 🚀 Javascript | Typescript | ReactJS | NextJs | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
