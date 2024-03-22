@@ -1,8 +1,8 @@
-Hey there! I'm Erick, a software developer with more than 10 years of experience under my belt. I'm basically a coding wizard, especially when it comes to front-end and back-end development. My go-to tech stack these days is OmniStack and NextJs. 
+Senior Full Stack Developer & Tech Lead | Expert in React.js, Next.js, & Node.js | Building Scalable Web Solutions
 
-I'm super passionate about programming and love working out solutions to tricky problems. Over the years, I've been a part of a bunch of different projects, from start to finish. I've done everything from chatting with customers to support once the product is live. 
-
-My day-to-day work includes designing applications, optimizing and cleaning up code, testing things out, and figuring out what our customers really need. It's a challenging and rewarding gig, and I'm stoked to be doing it.
+With over a decade of experience, I specialize in leading diverse teams to innovate and enhance web applications, focusing on React.js and Node.js.
+My approach combines technical excellence with strategic leadership, driving projects that exceed client expectations and significantly improve operational efficiency.
+Passionate about solving complex challenges, I'm committed to leveraging technology to achieve business goals and deliver outstanding user experiences.
 
 <p align="center">
 🚀 Javascript | Typescript | ReactJS | NextJs | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
